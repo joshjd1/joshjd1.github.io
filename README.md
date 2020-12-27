@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://www.seek.com.au/job/51144086?type=standard#searchRequestToken=09655e3f-f245-401c-8d24-686b02c42aa4](url) and ![](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
