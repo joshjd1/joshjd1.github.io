@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-hi 
+My name is Joshua Jesudhason (s3862115), s3862115@student.rmit.edu.au. Studying Informational Technology at RMIT keeps me sitting down for many hours during the week, with this I make sure my fitness is kept in check with spending my spare time socializing and playing soccer on weekends.
 
 You can use the [editor on GitHub](https://github.com/joshjd1/joshjd1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
