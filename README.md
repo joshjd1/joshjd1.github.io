@@ -1,18 +1,18 @@
-## Welcome to GitHub Pages
+## Who Am I?
 
 My name is Joshua Jesudhason (s3862115), s3862115@student.rmit.edu.au. Studying Informational Technology at RMIT keeps me sitting down for many hours during the week, with this I make sure my fitness is kept in check with spending my spare time socializing and playing soccer on weekends.
 
 
-### Markdown
+### Journey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Technology is continuously changing the way we are living, with the ever-growing industry evolving us and the way we view everyday life. Growing up I was a sporty kid who loved gaming, I learnt from team sports that a team can change and get manipulated by the people in the organization. The principal of a product which can be transformed due to what is in it sparked my interest to learn the foundation and details of an object. After graduating I would like to find a career in software engineering
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 
-Who Am I?
+
 
 ## Header 2
 ### Header 3
