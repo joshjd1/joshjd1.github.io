@@ -7,28 +7,7 @@ My name is Joshua Jesudhason (s3862115), s3862115@student.rmit.edu.au. Studying 
 
 Technology is continuously changing the way we are living, with the ever-growing industry evolving us and the way we view everyday life. Growing up I was a sporty kid who loved gaming, I learnt from team sports that a team can change and get manipulated by the people in the organization. The principal of a product which can be transformed due to what is in it sparked my interest to learn the foundation and details of an object. After graduating I would like to find a career in software engineering
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-
-
-
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[https://www.seek.com.au/job/51144086?type=standard#searchRequestToken=09655e3f-f245-401c-8d24-686b02c42aa4](url) and ![](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
